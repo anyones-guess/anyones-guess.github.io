@@ -1,11 +1,32 @@
 {"0": {
+    "doc": "01. 개요",
+    "title": "블로그를 쓰게 된 이유",
+    "content": "취직한지 벌써 몇 해가 흘렀다. 그간 많은 것을 공부하고 배웠지만, 복습의 부족, 기록의 부재로 그 많은 것들 중 대부분은 마치 내 월급처럼 스쳐 지나가 사라져버렸다. 지난번에 이거 정리된 거 봤었던 것 같은데, 어디서 봤었지라며 구글링하는 모습은 이제는 너무나도 익숙한 일상이 되어버렸다. 사실 지난해 정도부터 블로그를 작성해야겠다는 생각이 들었지만, 막상 시작해 보려고 하니 tistory, velog, github 중 어떤 것이 좋을지 선택도 해야 하고, 방법도 잘 몰라서 미루고 있었다. 시간은 계속해서 흐르고, 더 미루면 평생 이렇게 살겠다는 공포가 들어 이제야 쓰게 되었다. 또한, 글 쓰는 능력도 점점 퇴화하고 있다는 것을 뼈저리게 느끼고 있다. 간단한 문장을 작성하는 것도 요즘은 시간이 오래 걸리는 것 같다. 벌써 머리가 굳는 걸까… 위의 짤막한 두 단락을 작성하는 데만 30분 가까이 걸린 것 같다. 총체적 난국이다. 내가 포스팅한 내용이 다른 사람에게 도움이 된다면, 물론 더할 나위 없이 기쁘겠지만, 미천한 내 실력을 너무나도 잘 알기에 그 정도는 바라지도 않는다. 우선은 이 블로그가 나에게 큰 도움이 되길 바라고, 또 반드시 그렇게 되리라 믿어 의심치 않는다. Keep going! . ",
+    "url": "/docs/github-pages/%5Bgithub-pages%5D01_%EA%B0%9C%EC%9A%94/#%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%93%B0%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%9C%A0",
+    
+    "relUrl": "/docs/github-pages/%5Bgithub-pages%5D01_%EA%B0%9C%EC%9A%94/#블로그를-쓰게-된-이유"
+  },"1": {
+    "doc": "01. 개요",
+    "title": "01. 개요",
+    "content": ". ",
+    "url": "/docs/github-pages/%5Bgithub-pages%5D01_%EA%B0%9C%EC%9A%94/",
+    
+    "relUrl": "/docs/github-pages/%5Bgithub-pages%5D01_%EA%B0%9C%EC%9A%94/"
+  },"2": {
+    "doc": "GitHub Pages",
+    "title": "GitHub Pages",
+    "content": " ",
+    "url": "/docs/github-pages",
+    
+    "relUrl": "/docs/github-pages"
+  },"3": {
     "doc": "Home",
     "title": "아직 모른다",
     "content": "공부하고 기록하자. ",
     "url": "/#%EC%95%84%EC%A7%81-%EB%AA%A8%EB%A5%B8%EB%8B%A4",
     
     "relUrl": "/#아직-모른다"
-  },"1": {
+  },"4": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
