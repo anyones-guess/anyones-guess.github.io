@@ -19,19 +19,5 @@
     "url": "/docs/github-pages",
     
     "relUrl": "/docs/github-pages"
-  },"3": {
-    "doc": "Home",
-    "title": "아직 모른다",
-    "content": "공부하고 기록하자. ",
-    "url": "/#%EC%95%84%EC%A7%81-%EB%AA%A8%EB%A5%B8%EB%8B%A4",
-    
-    "relUrl": "/#아직-모른다"
-  },"4": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
-    "url": "/",
-    
-    "relUrl": "/"
   }
 }
