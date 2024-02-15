@@ -13,11 +13,60 @@
     
     "relUrl": "/docs/github-pages/%5Bgithub-pages%5D01_%EA%B0%9C%EC%9A%94/"
   },"2": {
+    "doc": "01. SOLID",
+    "title": "Single responsibility principle",
+    "content": "단일 책임 원칙 . | 한 클래스는 하나의 책임만. | 하나의 책임이라는 것은 매우 모호. | 변경이 있을 때 파급 효과가 적으면 SRP 를 잘 따른 것 | . ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/#single-responsibility-principle",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/#single-responsibility-principle"
+  },"3": {
+    "doc": "01. SOLID",
+    "title": "Open/closed principle",
+    "content": "개방-폐쇄 원칙 . | 소프트웨어는 확장에는 열려 있으나, 변경에는 닫혀 있어야 함 | . ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/#openclosed-principle",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/#openclosed-principle"
+  },"4": {
+    "doc": "01. SOLID",
+    "title": "Liskov substitution principle",
+    "content": "리스코프 치환 원칙 . | 프로그램의 객체는 프로그램의 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야 한다. | 자동차 인터페이스의 핸들은 방향을 조정하는 기능. 핸들이 방향이 아닌 속도를 조정하도록 구현하면 LSP 위반 | . ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/#liskov-substitution-principle",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/#liskov-substitution-principle"
+  },"5": {
+    "doc": "01. SOLID",
+    "title": "Interface segregation principle",
+    "content": "인터페이스 분리 원칙 . | 인터페이스 여러 개가 범용 인터페이스 하나보다 나음 | 자동차 인터페이스를 운전 인터페이스, 정비 인터페이스로 분리하면, 정비 인터페이스가 변하더라도 운전자 클라이언트에 영향을 주지는 않는다. | . ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/#interface-segregation-principle",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/#interface-segregation-principle"
+  },"6": {
+    "doc": "01. SOLID",
+    "title": "Dependency inversion principle",
+    "content": "의존관계 역전 원칙 . | 구현 클래스에 의존하지 말고, 인터페이스에 의존 | 클라이언트가 인터페이스에 의존해야 유연하게 구현체를 변경할 수 있다. | . ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/#dependency-inversion-principle",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/#dependency-inversion-principle"
+  },"7": {
+    "doc": "01. SOLID",
+    "title": "01. SOLID",
+    "content": ". ",
+    "url": "/docs/terminology/%5Bterminology%5D01_SOLID/",
+    
+    "relUrl": "/docs/terminology/%5Bterminology%5D01_SOLID/"
+  },"8": {
     "doc": "GitHub Pages",
     "title": "GitHub Pages",
     "content": " ",
     "url": "/docs/github-pages",
     
     "relUrl": "/docs/github-pages"
+  },"9": {
+    "doc": "Terminology",
+    "title": "Terminology",
+    "content": " ",
+    "url": "/docs/terminology",
+    
+    "relUrl": "/docs/terminology"
   }
 }
